@@ -1,4 +1,8 @@
 # Image Recon
+
+Basic image recognition with Python
+
+# Run
 ```
 usage: main.py [-h] -p
 
@@ -10,3 +14,8 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
   ```
+
+# Working
+
+`python main.py images/numbers/3.2.png`
+
